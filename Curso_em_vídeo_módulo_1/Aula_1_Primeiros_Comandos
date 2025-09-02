@@ -8,4 +8,4 @@ Estrutura: print + ( + ‘ + texto + ‘ + )
 
 '''python
 print("texto")
-'''
+''' 
