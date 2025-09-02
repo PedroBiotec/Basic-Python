@@ -1,0 +1,11 @@
+## Comando “Print”
+
+- Significa Escreva
+- Escrever um texto
+- Aspas essenciais
+
+Estrutura: print + ( + ‘ + texto + ‘ + )
+
+'''python
+print("texto")
+'''
