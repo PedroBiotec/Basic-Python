@@ -4,8 +4,11 @@
 - Escrever um texto
 - Aspas essenciais
 
-Estrutura: print + ( + ‘ + texto + ‘ + )
-
-'''python
+```python
 print("texto")
-''' 
+```
+
+Saída:
+```
+texto
+```
